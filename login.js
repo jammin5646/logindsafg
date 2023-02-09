@@ -5,7 +5,7 @@ function check(form)
         if(form.userpassword.value=="fantboss")
         {
             alert("Login페이지를 닫아주세요!")
-            window.open("https://laonie.netlify.app/")
+            window.open("ryan/index.html")
         }
         else
         {
