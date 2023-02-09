@@ -2,7 +2,7 @@ function check(form)
 {
     if(form.userid.value=="Luzo","luzo")
     {
-        if(form.userpassword.value=="fantboss")
+        if(form.userpassword.value=="luzo")
         {
             alert("Login페이지를 닫아주세요!")
             window.open("ryan/index.html")
