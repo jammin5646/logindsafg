@@ -47,7 +47,7 @@ h6{
     animation: example 0.9s linear infinite;
     position: 0 30em;
 }
-@keyframes example
+@keyframes example{
     from {color: red 0.05%,
     blue 0.8%,
 green 0.10%,
